@@ -6,11 +6,11 @@ Our objective in this project was to assist a new surf shop owner by performing 
 
 ## Results
 
+### Weather Summary from June:   
 ![](Resources/June_Temps.PNG)   
-Weather Summary from June
 
+### Weather Summary from December:   
 ![](Resources/December_Temps.PNG)   
-Weather Summary from December
 
 From the summaries above we can see a few key differences:
 - The mean temperature is about 4 degrees warmer in June than December.
@@ -20,3 +20,5 @@ From the summaries above we can see a few key differences:
 ## Summary
 
 From our findings, December is slightly cooler than June overall and there are a few days when it might feel chilly. However, most people living in the continental US will realize that this is a very slight temperate difference compared to other locations. Therefore, it is worth saying that by temperature, Hawaii would be a good place to set up a surf shop. This shouldn't be too surprising as Hawaii was where surfing was invented. 
+
+Performing two more queries to get precipitation for June and December reveals that the average precipitation remains low for both months with precipitiations for December being slightly higher than June. 
