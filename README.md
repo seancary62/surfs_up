@@ -6,11 +6,11 @@ Our objective in this project was to assist a new surf shop owner by performing 
 
 ## Results
 
-Weather Summary from June:
 ![](Resources/June_Temps.PNG)
+Weather Summary from June
 
-Weather Summary from December:
 ![](Resources/December_Temps.PNG)
+Weather Summary from December
 
 From the summaries above we can see a few key differences:
 - The mean temperature is about 4 degrees warmer in June than December.
