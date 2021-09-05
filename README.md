@@ -6,10 +6,10 @@ Our objective in this project was to assist a new surf shop owner by performing 
 
 ## Results
 
-![](Resources/June_Temps.PNG)
+![](Resources/June_Temps.PNG)   
 Weather Summary from June
 
-![](Resources/December_Temps.PNG)
+![](Resources/December_Temps.PNG)   
 Weather Summary from December
 
 From the summaries above we can see a few key differences:
